@@ -1,6 +1,6 @@
 # Snake Game
 
-![snake](https://files.fm/f/sypvz2n6d2) (https://files.fm/u/hysxnqb2q7)
+![Snake Game](https://files.fm/f/sypvz2n6d2) 
 
 ## Overview
 
