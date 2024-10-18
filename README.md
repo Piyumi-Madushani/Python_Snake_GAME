@@ -17,7 +17,7 @@ The Snake Game is a classic arcade game implemented in Python. The objective is 
 ## Technologies Used
 
 - Programming Language: Python
-- Game Library:twi
+- Game Library:tkinter
 - Development Environment: VSCode
 
 ## Installation
